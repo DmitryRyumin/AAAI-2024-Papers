@@ -237,6 +237,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
 </a>
 
+> :exclamation: Papers will be sorted by category as soon as the proceedings are available.
+
 <table>
     <thead>
         <tr>
