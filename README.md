@@ -102,7 +102,7 @@
 
 ---
 
-AAAI 2024 Papers: Delve into an expansive collection of innovative research papers unveiled at [*AAAI 2024*](https://aaai.org/aaai-conference/), the premier conference in artificial intelligence. Seamlessly integrate code implementations for enhanced understanding. ⭐ experience the forefront of Artificial Intelligence advancements with this repository!
+AAAI 2024 Papers: Explore a comprehensive collection of innovative research papers presented at [*AAAI 2024*](https://aaai.org/aaai-conference/), one of the premier artificial intelligence conferences. Seamlessly integrate code implementations for better understanding. ⭐ experience the forefront of progress in artificial intelligence with this repository!
 
 <p align="center">
     <a href="https://aaai.org/aaai-conference/" target="_blank">
