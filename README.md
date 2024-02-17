@@ -85,18 +85,19 @@
       </a>
     </td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td colspan="2" align="center"><strong>Progress Status</strong></td>
   </tr>
   <tr>
     <td><strong>Main</strong></td>
     <td>
+      <!-- 50/2/2100 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/0?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/1?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
-  </tr> -->
+  </tr>
 </table>
 
 ---
