@@ -257,13 +257,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md">1-200 papers</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md"><img src="https://img.shields.io/badge/30-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md"><img src="https://img.shields.io/badge/40-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md"><img src="https://img.shields.io/badge/23-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md"><img src="https://img.shields.io/badge/29-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md"><img src="https://img.shields.io/badge/20-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md"><img src="https://img.shields.io/badge/24-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
