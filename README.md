@@ -61,7 +61,7 @@
       <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FAAAI-2024-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
     </td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td><strong>GitHub Actions</strong></td>
     <td>
       <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/actions/workflows/copy_parse_markdown.yml/badge.svg">
@@ -76,7 +76,7 @@
         <img src="https://github.com/DmitryRyumin/AAAI-2024-Papers/actions/workflows/sync_papers_with_hf.yml/badge.svg" alt="Sync Hugging Face App">
       </a>
     </td>
-  </tr> -->
+  </tr>
   <tr>
     <td><strong>Application</strong></td>
     <td>
