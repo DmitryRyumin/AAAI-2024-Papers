@@ -91,9 +91,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 120/2/2100 -->
+      <!-- 150/2/2100 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/3?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/4?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -258,13 +258,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md">1-200 papers</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md"><img src="https://img.shields.io/badge/120-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md"><img src="https://img.shields.io/badge/150-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md"><img src="https://img.shields.io/badge/78-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md"><img src="https://img.shields.io/badge/97-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md"><img src="https://img.shields.io/badge/49-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md"><img src="https://img.shields.io/badge/67-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
