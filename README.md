@@ -91,7 +91,7 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 200/2/2119 -->
+      <!-- 220/2/2119 -->
       <div style="float:left;">
         <img src="https://geps.dev/progress/5?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
@@ -274,12 +274,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/201_400.md">201-400 papers</a>
             </td>
-            <td colspan="4" rowspan="10" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/201_400.md"><img src="https://img.shields.io/badge/20-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/201_400.md"><img src="https://img.shields.io/badge/13-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/201_400.md"><img src="https://img.shields.io/badge/13-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/201_400.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/401_600.md">401-600 papers</a>
             </td>
+            <td colspan="4" rowspan="9" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
