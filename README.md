@@ -112,7 +112,8 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
 
 ---
 
-[*The PDF version of the AAAI 2024 Conference Programme*](https://aaai.org/wp-content/uploads/2024/02/AAAI-24_Main_2024-02-01.pdf), includes a comprehensive table listing all accepted full papers in the main track.
+> [!TIP]
+> [*The PDF version of the AAAI 2024 Conference Programme*](https://aaai.org/wp-content/uploads/2024/02/AAAI-24_Main_2024-02-01.pdf), includes a comprehensive table listing all accepted full papers in the main track.
 
 ---
 
