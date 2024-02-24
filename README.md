@@ -229,7 +229,8 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
 <br />
 <br />
 
-Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/AAAI-2024-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/AAAI-2024-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
+> [!NOTE]
+> Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/AAAI-2024-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/AAAI-2024-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
 
 ---
 
