@@ -131,7 +131,8 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
 <br />
 <br />
 
-> :exclamation: Conference table will be up to date all the time.
+> [!important]
+> Conference table will be up to date all the time.
 
 <table>
     <tr>
@@ -237,7 +238,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
 </a>
 
-> :exclamation: Papers will be sorted by category as soon as the [*proceedings*](https://aaai.org/aaai-publications/aaai-conference-proceedings/) are available.
+> [!important]
+> Papers will be sorted by category as soon as the [*proceedings*](https://aaai.org/aaai-publications/aaai-conference-proceedings/) are available.
 
 <table>
     <thead>
