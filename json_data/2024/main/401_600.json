@@ -1,6 +1,6 @@
 [
   {
-    "title": "Progressive High-Frequency Reconstruction for Pan-Sharpening with Implicit",
+    "title": "Progressive High-Frequency Reconstruction for Pan-Sharpening with Implicit Neural Representation",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -81,7 +81,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Cross-Modal Feature Distribution Calibration for Few-Shot Visual Question",
+    "title": "Cross-Modal Feature Distribution Calibration for Few-Shot Visual Question Answering",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -135,7 +135,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Continuous Rotation Group Equivariant Network Inspired by Neural Population",
+    "title": "Continuous Rotation Group Equivariant Network Inspired by Neural Population Coding",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -162,7 +162,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Point Deformable Network with Enhanced Normal Embedding for Point Cloud",
+    "title": "Point Deformable Network with Enhanced Normal Embedding for Point Cloud Analysis",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -189,7 +189,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Generating and Reweighting Dense Contrastive Patterns for Unsupervised",
+    "title": "Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -243,7 +243,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Explaining Reinforcement Learning Agents through Counterfactual Action",
+    "title": "Explaining Reinforcement Learning Agents through Counterfactual Action Outcomes",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -297,7 +297,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Graph-Based Prediction and Planning Policy Network (GP3Net) for Scalable Self-",
+    "title": "Graph-based Prediction and Planning Policy Network (GP3Net) for Scalable Self-Driving in Dynamic Environments using Deep Reinforcement Learning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -324,7 +324,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Electron Microscopy Images as Set of Fragments for Mitochondrial",
+    "title": "Electron Microscopy Images as Set of Fragments for Mitochondrial Segmentation",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -351,7 +351,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Multi-Cross Sampling and Frequency-Division Reconstruction for Image",
+    "title": "Multi-Cross Sampling and Frequency-Division Reconstruction for Image Compressed Sensing",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -405,7 +405,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "All Beings Are Equal in Open Set Recognition",
+    "title": "All Beings are Equal in Open Set Recognition",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -459,7 +459,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Collaborative Synthesis of Patient Records through Multi-Visit Health State",
+    "title": "Collaborative Synthesis of Patient Records through Multi-Visit Health State Inference",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -486,7 +486,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Primitive-Based 3D Human-Object Interaction Modelling and Programming",
+    "title": "Primitive-based 3D Human-Object Interaction Modelling and Programming",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -540,7 +540,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "An Effective Augmented Lagrangian Method for Fine-Grained Multi-View",
+    "title": "An Effective Augmented Lagrangian Method for Fine-Grained Multi-View Optimization",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -567,7 +567,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Multiscale Attention Wavelet Neural Operator for Capturing Steep Trajectories in",
+    "title": "Multiscale Attention Wavelet Neural Operator for Capturing Steep Trajectories in Biochemical Systems",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -594,7 +594,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Prompting Multi-Modal Image Segmentation with Semantic Grouping Qibin HeMain Track 6486 Semi-supervised TEE Segmentation via Interacting with SAM Equipped with",
+    "title": "Semi-Supervised TEE Segmentation via Interacting with SAM Equipped with Noise-Resilient Prompting",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -648,7 +648,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Distribution-Conditioned Adversarial Variational Autoencoder for Valid",
+    "title": "Distribution-Conditioned Adversarial Variational Autoencoder for Valid Instrumental Variable Generation",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -675,7 +675,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "On Unsupervised Domain Adaptation: Pseudo Label Guided Mixup for",
+    "title": "On Unsupervised Domain Adaptation: Pseudo Label Guided Mixup for Adversarial Prompt Tuning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -702,7 +702,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Learning Coalition Structures with Games Yixuan",
+    "title": "Learning Coalition Structures with Games",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -756,7 +756,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Are You Concerned about Limited Function Evaluations: Data-Augmented",
+    "title": "Are You Concerned about Limited Function Evaluations: Data-Augmented Pareto Set Learning for Expensive Multi-Objective Optimization",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -783,7 +783,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Towards Continual Learning Desiderata via HSIC-Bottleneck Orthogonalization",
+    "title": "Towards Continual Learning Desiderata via HSIC-Bottleneck Orthogonalization and Equiangular Embedding",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -810,7 +810,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Transformer-Based No-Reference Image Quality Assessment via Supervised",
+    "title": "Transformer-Based No-Reference Image Quality Assessment via Supervised Contrastive Learning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -864,7 +864,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "On the Structural Hardness of Answer Set Programming: Can Structure",
+    "title": "On the Structural Hardness of Answer Set Programming: Can Structure Efficiently Confine the Power of Disjunctions?",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -891,7 +891,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Efficient Asynchronous Federated Learning with Prospective Momentum",
+    "title": "Efficient Asynchronous Federated Learning with Prospective Momentum Aggregation and Fine-Grained Correction",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -945,7 +945,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Spectrum Translation for Refinement of Image Generation (STIG) Based on",
+    "title": "Spectrum Translation for Refinement of Image Generation (STIG) based on Contrastive Learning and Spectral Filter Profile",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -972,7 +972,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Gaze from Origin: Learning for Generalized Gaze Estimation by Embedding the",
+    "title": "Gaze from Origin: Learning for Generalized Gaze Estimation by Embedding the Gaze Frontalization Process",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1053,7 +1053,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Causal Strategic Learning with Competitive Selection Kiet Q.",
+    "title": "Causal Strategic Learning with Competitive Selection",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1107,7 +1107,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Improving Panoptic Narrative Grounding by Harnessing Semantic Relationships",
+    "title": "Improving Panoptic Narrative Grounding by Harnessing Semantic Relationships and Visual Confirmation",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1134,7 +1134,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Semantic Complete Scene Forecasting from a 4D Dynamic Point Cloud",
+    "title": "Semantic Complete Scene Forecasting from a 4D Dynamic Point Cloud Sequence",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1161,7 +1161,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "A Score-Based Deterministic Diffusion Algorithm with Smooth Scores for",
+    "title": "A Score-based Deterministic Diffusion Algorithm with Smooth Scores for General Distributions",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1188,7 +1188,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "On the Computational Complexity of Plan Verification, (Bounded) Plan-",
+    "title": "On the Computational Complexity of Plan Verification, (Bounded) Plan-Optimality Verification, and Bounded Plan Existence",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1215,7 +1215,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Boosting Multiple Instance Learning Models for Whole Slide Image",
+    "title": "Boosting Multiple Instance Learning Models for whole Slide Image Classification: A Model-Agnostic Framework based on Counterfactual Inference",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1242,7 +1242,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Exploring Temporal Feature Correlation for Efficient and Stable Video Semantic",
+    "title": "Exploring Temporal Feature Correlation for Efficient and Stable Video Semantic Segmentation",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1296,7 +1296,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Blind Face Restoration under Extreme Conditions: Leveraging 3D-2D Prior",
+    "title": "Blind Face Restoration under Extreme Conditions: Leveraging 3D-2D Prior Fusion for Superior Structural and Texture Recovery",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1323,7 +1323,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Learning Domain-Independent Heuristics for Grounded and Lifted Planning Dillon",
+    "title": "Learning Domain-Independent Heuristics for Grounded and Lifted Planning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1350,7 +1350,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Fine Structure-Aware Sampling: A New Sampling Training Scheme for Pixel-",
+    "title": "Fine Structure-Aware Sampling: A New Sampling Training Scheme for Pixel-Aligned Implicit Models in Single-View Human Reconstruction",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1377,7 +1377,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Identification of Causal Structure in the Presence of Missing Data with Additive",
+    "title": "Identification of Causal Structure in the Presence of Missing Data with Additive Noise Model",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1458,7 +1458,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Text-Based Occluded Person Re-identification via Multi-Granularity Contrastive",
+    "title": "Text-based Occluded Person Re-Identification via Multi-Granularity Contrastive Consistency Learning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1593,7 +1593,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Variational Hybrid-Attention Framework for Multi-Label Few-Shot Aspect",
+    "title": "Variational Hybrid-Attention Framework for Multi-Label Few-Shot Aspect Category Detection",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1647,7 +1647,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Watermarking Conditional Text Generation for AI Detection: Unveiling",
+    "title": "Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1674,7 +1674,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Multichannel AV-wav2vec2: A Framework for Learning Multichannel Multi-Modal",
+    "title": "Multichannel AV-wav2vec2: A Framework for Learning Multichannel Multi-Modal Speech Representation",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1728,7 +1728,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Discrete Cycle-Consistency Based Unsupervised Deep Graph Matching",
+    "title": "Discrete Cycle-Consistency based Unsupervised Deep Graph Matching",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1755,7 +1755,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Beyond Mimicking Under-Represented Emotions: Deep Data Augmentation with",
+    "title": "Beyond Mimicking Under-Represented Emotions: Deep Data Augmentation with Emotional Subspace Constraints for EEG-based Emotion Recognition",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1782,7 +1782,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Adaptive Feature Imputation with Latent Graph for Deep Incomplete Multi-View",
+    "title": "Adaptive Feature Imputation with Latent Graph for Deep Incomplete Multi-View Clustering",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1809,7 +1809,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Distilling Autoregressive Models to Obtain High-Performance Non-autoregressive",
+    "title": "Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1836,7 +1836,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Encoding Constraints as Binary Constraint Networks Satisfying BTP Ruiwei WangMain Track 11395 ProAgent: Building Proactive Cooperative Agents with Large Language Models",
+    "title": "ProAgent: Building Proactive Cooperative Agents with Large Language Models",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1863,7 +1863,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-",
+    "title": "Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1917,7 +1917,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Understanding Distributed Representations of Concepts in Deep Neural",
+    "title": "Understanding Distributed Representations of Concepts in Deep Neural Networks without Supervision",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2025,7 +2025,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Discriminatively Fuzzy Multi-View K-means Clustering with Local Structure",
+    "title": "Discriminatively Fuzzy Multi-View K-means Clustering with Local Structure Preserving",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2079,7 +2079,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Data-Driven Knowledge-Aware Inference of Private Information in Continuous",
+    "title": "Data-Driven Knowledge-Aware Inference of Private Information in Continuous Double Auctions",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2160,7 +2160,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Voxel or Pillar: Exploring Efficient Point Cloud Representation for 3D Object",
+    "title": "Voxel or Pillar: Exploring Efficient Point Cloud Representation for 3D Object Detection",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2187,7 +2187,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Jointly Improving the Sample and Communication Complexities in Decentralized",
+    "title": "Jointly Improving the Sample and Communication Complexities in Decentralized Stochastic Minimax Optimization",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2241,7 +2241,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Enhancing Semi-supervised Domain Adaptation via Effective Target Labeling",
+    "title": "Enhancing Semi-Supervised Domain Adaptation via Effective Target Labeling",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2295,7 +2295,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Visual Redundancy Removal for Composite Images: A Benchmark Dataset and",
+    "title": "Visual Redundancy Removal for Composite Images: A Benchmark Dataset and a Multi-Visual-Effects Driven Incremental Method",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2322,7 +2322,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Learning Invariant Inter-pixel Correlations for Superpixel Generation",
+    "title": "Learning Invariant Inter-Pixel Correlations for Superpixel Generation",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2349,7 +2349,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Constrained Bayesian Optimization under Partial Observations: Balanced",
+    "title": "Constrained Bayesian Optimization under Partial Observations: Balanced Improvements and Provable Convergence",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2403,7 +2403,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from",
+    "title": "An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2430,7 +2430,7 @@
     "section": "401-600 papers"
   },
   {
-    "title": "Sample-and-Bound for Non-convex Optimization",
+    "title": "Sample-and-Bound for Non-Convex Optimization",
     "base_url": null,
     "title_page": null,
     "github": null,
