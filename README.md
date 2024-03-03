@@ -91,9 +91,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 650/2/2157 -->
+      <!-- 700/2/2157 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/15?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/16?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -313,16 +313,16 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/601_800.md">601-800 papers</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/601_800.md"><img src="https://img.shields.io/badge/50-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/601_800.md"><img src="https://img.shields.io/badge/100-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/601_800.md"><img src="https://img.shields.io/badge/33-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/601_800.md"><img src="https://img.shields.io/badge/61-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/601_800.md"><img src="https://img.shields.io/badge/19-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/601_800.md"><img src="https://img.shields.io/badge/40-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/601_800.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/601_800.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
