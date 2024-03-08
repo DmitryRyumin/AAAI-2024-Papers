@@ -302,10 +302,10 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/401_600.md"><img src="https://img.shields.io/badge/105-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/401_600.md"><img src="https://img.shields.io/badge/69-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/401_600.md"><img src="https://img.shields.io/badge/70-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/401_600.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/401_600.md"><img src="https://img.shields.io/badge/3-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
