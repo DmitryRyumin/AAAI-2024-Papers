@@ -91,7 +91,7 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 970/2/2191 -->
+      <!-- 980/2/2191 -->
       <div style="float:left;">
         <img src="https://geps.dev/progress/22?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
@@ -330,13 +330,13 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/801_1000.md">801-1000 papers</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/801_1000.md"><img src="https://img.shields.io/badge/170-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/801_1000.md"><img src="https://img.shields.io/badge/180-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/801_1000.md"><img src="https://img.shields.io/badge/95-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/801_1000.md"><img src="https://img.shields.io/badge/101-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/801_1000.md"><img src="https://img.shields.io/badge/61-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/801_1000.md"><img src="https://img.shields.io/badge/63-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/801_1000.md"><img src="https://img.shields.io/badge/3-FF0000" alt="Videos"></a>
