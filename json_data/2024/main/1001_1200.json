@@ -3,7 +3,7 @@
     "title": "Spatial-Contextual Discrepancy Information Compensation for GAN Inversion",
     "base_url": null,
     "title_page": null,
-    "github": null,
+    "github": "ZzqLKED/SDIC",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -27,7 +27,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Weakly-Supervised Temporal Action Localization by Inferring Salient Snippet-",
+    "title": "Weakly-Supervised Temporal Action Localization by Inferring Salient Snippet-Feature",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -54,7 +54,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Scalable Enumeration of Trap Spaces in Boolean Networks via Answer Set",
+    "title": "SimCalib: Graph Neural Network Calibration based on Similarity between Nodes",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -68,7 +68,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": "2305.02442",
+    "paper_arxiv_id": "2312.11858",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -81,10 +81,10 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Live and Learn: Continual Action Clustering with Incremental Views",
+    "title": "SA<sup>2</sup>VP: Spatially Aligned-and-Adapted Visual Prompt",
     "base_url": null,
     "title_page": null,
-    "github": null,
+    "github": "tommy-xq/SA2VP",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -95,7 +95,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": "1608.07001",
+    "paper_arxiv_id": "2312.10376",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -108,7 +108,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Hypergraph-Guided Disentangled Spectrum Transformer Networks for Near-",
+    "title": "Hypergraph-guided Disentangled Spectrum Transformer Networks for Near-Infrared Facial Expression Recognition",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -122,7 +122,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": "1011.3277",
+    "paper_arxiv_id": "2312.05907",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -138,7 +138,7 @@
     "title": "Exploring Sparse Visual Prompt for Domain Adaptive Dense Prediction",
     "base_url": null,
     "title_page": null,
-    "github": null,
+    "github": "Anonymous-012/SVDP",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -162,10 +162,10 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Scalable Geometric Fracture Assembly via Co-creation Space among",
+    "title": "Scalable Geometric Fracture Assembly via Co-Creation Space among Assemblers",
     "base_url": null,
     "title_page": null,
-    "github": null,
+    "github": "Ruiyuan-Zhang/CCS",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -189,7 +189,34 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Spot the Error: Non-autoregressive Graphic Layout Generation with Wireframe",
+    "title": "Spot the Error: Non-Autoregressive Graphic Layout Generation with Wireframe Locator",
+    "base_url": null,
+    "title_page": null,
+    "github": "ffffatgoose/SpotError",
+    "web_page": null,
+    "github_page": null,
+    "colab": null,
+    "modelscope": null,
+    "gitee": null,
+    "gitlab": null,
+    "zenodo": null,
+    "kaggle": null,
+    "demo_page": null,
+    "paper_thecvf": null,
+    "paper_arxiv_id": "2401.16375",
+    "paper_pdf": null,
+    "paper_hal_science": null,
+    "paper_researchgate": null,
+    "paper_amazon": null,
+    "youtube_id": null,
+    "drive_google": null,
+    "dropbox": null,
+    "onedrive": null,
+    "loom": null,
+    "section": "1001-1200 papers"
+  },
+  {
+    "title": "High-Fidelity Diffusion-based Image Editing",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -203,7 +230,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": "1901.06767",
+    "paper_arxiv_id": "2312.15707",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -216,7 +243,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "High-Fidelity Diffusion-Based Image Editing",
+    "title": "SIG: Speaker Identification in Literature via Prompt-based Generation",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -230,7 +257,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": "2401.10219",
+    "paper_arxiv_id": "2312.14590",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -243,12 +270,39 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Reward Penalties on Augmented States for Solving Richly Constrained RL",
+    "title": "RLfOLD: Reinforcement Learning from Online Demonstrations in Urban Autonomous Driving",
     "base_url": null,
     "title_page": null,
-    "github": null,
+    "github": "DanielCoelho112/rlfold",
     "web_page": null,
     "github_page": null,
+    "colab": null,
+    "modelscope": null,
+    "gitee": null,
+    "gitlab": null,
+    "zenodo": null,
+    "kaggle": null,
+    "demo_page": null,
+    "paper_thecvf": null,
+    "paper_arxiv_id": null,
+    "paper_pdf": null,
+    "paper_hal_science": null,
+    "paper_researchgate": null,
+    "paper_amazon": null,
+    "youtube_id": null,
+    "drive_google": null,
+    "dropbox": null,
+    "onedrive": null,
+    "loom": null,
+    "section": "1001-1200 papers"
+  },
+  {
+    "title": "Reward Penalties on Augmented States for Solving Richly Constrained RL Effectively",
+    "base_url": null,
+    "title_page": null,
+    "github": "xiaomeijiang258/aaaicrl",
+    "web_page": null,
+    "github_page": "https://xiaomeijiang258.github.io/aaaicrl/",
     "colab": null,
     "modelscope": null,
     "gitee": null,
@@ -270,10 +324,10 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Parsing All Adverse Scenes: Severity-Aware Semantic Segmentation with Mask-",
+    "title": "Parsing All Adverse Scenes: Severity-Aware Semantic Segmentation with Mask-Enhanced Cross-Domain Consistency",
     "base_url": null,
     "title_page": null,
-    "github": null,
+    "github": "Cuzyoung/PASS",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -284,7 +338,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": "2312.09534",
+    "paper_arxiv_id": null,
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -324,7 +378,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Social-Aware Group Display Configuration in VR Conference",
+    "title": "Regulating AI: Applying Insights from Behavioural Economics and Psychology to the Application of Article 5 of the EU AI Act",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -338,12 +392,12 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": "2002.04338",
+    "paper_arxiv_id": "2308.02041",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
     "paper_amazon": null,
-    "youtube_id": null,
+    "youtube_id": "nWPpHYwqpU8",
     "drive_google": null,
     "dropbox": null,
     "onedrive": null,
@@ -351,34 +405,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Regulating AI: Applying Insights from Behavioural Economics and Psychology to",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2103.03666",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "Online Boosting Adaptive Learning under Concept Drift for Multistream",
+    "title": "Online Boosting Adaptive Learning under Concept Drift for Multistream Classification",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -408,7 +435,7 @@
     "title": "Region-Aware Exposure Consistency Network for Mixed Exposure Correction",
     "base_url": null,
     "title_page": null,
-    "github": null,
+    "github": "kravrolens/RECNet",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -419,7 +446,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": "2212.14801",
+    "paper_arxiv_id": "2402.18217",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -432,7 +459,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Arbitrary-Scale Video Super-resolution Guided by Dynamic Context",
+    "title": "Unified Framework for Diffusion Generative Models in SO(3): Applications in Computer Vision and Astrophysics",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -446,34 +473,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": "2305.04844",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "Selective and Orthogonal Feature Activation for Pedestrian Attribute Recognition",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "1611.05603",
+    "paper_arxiv_id": "2312.11707",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -513,7 +513,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Enhancing Evolving Domain Generalization through Dynamic Latent",
+    "title": "Enhancing Evolving Domain Generalization through Dynamic Latent Representations",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -540,11 +540,11 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model",
+    "title": "Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation",
     "base_url": null,
     "title_page": null,
-    "github": null,
-    "web_page": null,
+    "github": "guyyariv/TempoTokens",
+    "web_page": "https://pages.cs.huji.ac.il/adiyoss-lab/TempoTokens/",
     "github_page": null,
     "colab": null,
     "modelscope": null,
@@ -554,7 +554,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": "2305.19101",
+    "paper_arxiv_id": "2309.16429",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -567,10 +567,10 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "A Convolutional Neural Network Interpretable Framework for Human Ventral",
+    "title": "A Convolutional Neural Network Interpretable Framework for Human Ventral Visual Pathway Representation",
     "base_url": null,
     "title_page": null,
-    "github": null,
+    "github": "BIT-YangLab/CNN-IF",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -581,7 +581,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": "1411.6422",
+    "paper_arxiv_id": null,
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -594,34 +594,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Runtime Analysis of the ( μ + 1) GA: Provable Speed-Ups from Strong Drift",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "1703.05142",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "Learning from Ambiguous Demonstrations with Self-Explanation Guided",
+    "title": "Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -702,7 +675,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Improving the Adversarial Transferability of Vision Transformers with Virtual",
+    "title": "Improving the Adversarial Transferability of Vision Transformers with Virtual Dense Connection",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -729,7 +702,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Efficient Algorithms for Non-gaussian Single Index Models with Generative Priors",
+    "title": "Efficient Algorithms for Non-Gaussian Single Index Models with Generative Priors",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -756,7 +729,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Embracing Language Inclusivity and Diversity in CLIP through Continual",
+    "title": "Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -783,7 +756,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Omnidirectional Image Super-resolution via Bi-projection Fusion",
+    "title": "Omnidirectional Image Super-Resolution via Bi-Projection Fusion",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -864,7 +837,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Fluctuation-Based Adaptive Structured Pruning for Large Language Models",
+    "title": "Fluctuation-based Adaptive Structured Pruning for Large Language Models",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -891,7 +864,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Hybrid-Supervised Dual-Search: Leveraging Automatic Learning for Loss-Free",
+    "title": "Hybrid-Supervised Dual-Search: Leveraging Automatic Learning for Loss-Free Multi-Exposure Image Fusion",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -918,7 +891,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Multi-Prototype Space Learning for Commonsense-Based Scene Graph",
+    "title": "Multi-Prototype Space Learning for Commonsense-based Scene Graph Generation",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -945,7 +918,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Divide and Conquer: Hybrid Pre-training for Person Search",
+    "title": "Divide and Conquer: Hybrid Pre-Training for Person Search",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -972,7 +945,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Optimize & Reduce: A Top-Down Approach for Image Vectorization",
+    "title": "Optimize and Reduce: A Top-Down Approach for Image Vectorization",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1026,7 +999,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Gated Attention Coding for Training High-Performance and Efficient Spiking",
+    "title": "Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1080,7 +1053,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Towards a Theoretical Understanding of Why Local Search Works for Clustering",
+    "title": "Towards a Theoretical Understanding of Why Local Search Works for Clustering with Fair-Center Representation",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1161,7 +1134,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Frequency Spectrum Is More Effective for Multimodal Representation and",
+    "title": "Frequency Spectrum is more Effective for Multimodal Representation and Fusion: A Multimodal Spectrum Rumor Detector",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1215,7 +1188,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Turning Dust into Gold: Distilling Complex Reasoning Capabilities from LLMs by",
+    "title": "Turning Dust into Gold: Distilling Complex Reasoning Capabilities from LLMs by Leveraging Negative Data",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1242,7 +1215,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Beyond Entities: A Large-Scale Multi-Modal Knowledge Graph with Triplet Fact",
+    "title": "Beyond Entities: A Large-Scale Multi-Modal Knowledge Graph with Triplet Fact Grounding",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1296,7 +1269,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Mitigating Large Language Model Hallucinations via Autonomous Knowledge",
+    "title": "Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1350,7 +1323,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Rethinking Dimensional Rationale in Graph Contrastive Learning from Causal",
+    "title": "Rethinking Dimensional Rationale in Graph Contrastive Learning from Causal Perspective",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1404,7 +1377,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Diagnosing and Rectifying Fake OOD Invariance: A Restructured Causal",
+    "title": "Diagnosing and Rectifying Fake OOD Invariance: A Restructured Causal Approach",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1431,7 +1404,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "A Joint Framework with Heterogeneous-Relation-Aware Graph and Multi-",
+    "title": "A Joint Framework with Heterogeneous-Relation-Aware Graph and Multi-Channel Label Enhancing Strategy for Event Causality Extraction",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1458,7 +1431,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Arbitrary-Scale Point Cloud Upsampling by Voxel-Based Network with Latent",
+    "title": "Arbitrary-Scale Point Cloud Upsampling by Voxel-based Network with Latent Geometric-Consistent Learning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1512,7 +1485,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "A Diffusion-Based Pre-training Framework for Crystal Property Prediction",
+    "title": "A Diffusion-based Pre-Training Framework for Crystal Property Prediction",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1566,7 +1539,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Non-excludable Bilateral Trade between Groups Yixuan",
+    "title": "Non-Excludable Bilateral Trade between Groups",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1620,7 +1593,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Mastering Context-to-Label Representation Transformation for Event Causality",
+    "title": "Mastering Context-to-Label Representation Transformation for Event Causality Identification with Diffusion Models",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1647,7 +1620,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Imitate the Good and Avoid the Bad: An Incremental Approach to Safe",
+    "title": "Imitate the Good and Avoid the Bad: An Incremental Approach to Safe Reinforcement Learning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1674,7 +1647,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Multiple Hypothesis Dropout: Estimating the Parameters of Multi-Modal Output",
+    "title": "Multiple Hypothesis Dropout: Estimating the Parameters of Multi-Modal Output Distributions",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1701,7 +1674,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Batch Normalization Is Blind to the First and Second Derivatives of the Loss",
+    "title": "Batch Normalization is Blind to the First and Second Derivatives of the Loss",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1728,7 +1701,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Solving Satisfiability Modulo Counting for Symbolic and Statistical AI Integration",
+    "title": "Solving Satisfiability Modulo Counting for Symbolic and Statistical AI Integration with Provable Guarantees",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1782,7 +1755,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Peer Learning: Learning Complex Policies in Groups from Scratch via Action",
+    "title": "Peer Learning: Learning Complex Policies in Groups from Scratch via Action Recommendations",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1809,7 +1782,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Rethinking Two-Stage Referring Expression Comprehension: A Novel Grounding",
+    "title": "Rethinking Two-Stage Referring Expression Comprehension: A Novel Grounding and Segmentation Method Modulated by Point",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1944,7 +1917,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Simplifying Complex Observation Models in Continuous POMDP Planning with",
+    "title": "Simplifying Complex Observation Models in Continuous POMDP Planning with Probabilistic Guarantees and Practice",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1971,7 +1944,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Responsibility in Extensive Form Games Qi SHI",
+    "title": "Responsibility in Extensive Form Games",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2025,7 +1998,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Bridging the Semantic Latent Space between Brain and Machine: Similarity Is All",
+    "title": "Bridging the Semantic Latent Space between Brain and Machine: Similarity Is All You Need",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2052,7 +2025,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "An Autoregressive Text-to-Graph Framework for Joint Entity and Relation",
+    "title": "An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2187,7 +2160,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "A Class of Topological Pseudodistances for Fast Comparison of Persistence",
+    "title": "A Class of Topological Pseudodistances for Fast Comparison of Persistence Diagrams",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2214,7 +2187,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Improving Automatic VQA Evaluation Using Large Language Models",
+    "title": "Improving Automatic VQA Evaluation using Large Language Models",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2322,7 +2295,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Practical Privacy-Preserving MLaaS: When Compressive Sensing Meets",
+    "title": "Practical Privacy-Preserving MLaaS: When Compressive Sensing Meets Generative Networks",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2349,7 +2322,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Towards Fairness in Online Service with K Servers and Its Applicaitons in Fair",
+    "title": "Towards Fairness in Online Service with K Servers and its Applicaitons in Fair Food Delivery",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2376,7 +2349,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Generating Images of Rare Concepts Using Pre-trained Diffusion Models",
+    "title": "Generating Images of Rare Concepts using Pre-trained Diffusion Models",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2430,7 +2403,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "How to Make Knockout Tournaments More Popular?",
+    "title": "How to Make Knockout Tournaments more Popular?",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2457,7 +2430,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Dealing with Numeric and Metric Time Constraints in PDDL3 via Compilation to",
+    "title": "Dealing with Numeric and Metric Time Constraints in PDDL3 via Compilation to Numeric Planning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2538,7 +2511,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Manipulation-Robust Selection of Citizens’ Assemblies",
+    "title": "Manipulation-Robust Selection of Citizens' Assemblies",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2565,7 +2538,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Implications of Distance over Redistricting Maps: Central and Outlier Maps Seyed",
+    "title": "Implications of Distance over Redistricting Maps: Central and Outlier Maps Seyed Implications of Distance over Redistricting Maps: Central and Outlier Maps",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2592,7 +2565,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Leveraging Normalization Layer in Adapters with Progressive Learning and",
+    "title": "Leveraging Normalization Layer in Adapters with Progressive Learning and Adaptive Distillation for Cross-Domain Few-Shot Learning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2673,7 +2646,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Generalized Bradley-Terry Models for Score Estimation from Paired",
+    "title": "Generalized Bradley-Terry Models for Score Estimation from Paired Comparisons",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2700,7 +2673,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Enhancing the Efficiency of Altruism and Taxes in Affine Congestion Games",
+    "title": "Enhancing the Efficiency of Altruism and Taxes in Affine Congestion Games through Signalling",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2727,7 +2700,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Optimal Quasi-clique: Hardness, Equivalence with Densest-k-Subgraph, and",
+    "title": "Optimal Quasi-Clique: Hardness, Equivalence with Densest-k-Subgraph, and Quasi-Partitioned Community Mining",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2754,7 +2727,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Learning Real-World Image De-weathering with Imperfect Supervision",
+    "title": "Learning Real-World Image De-Weathering with Imperfect Supervision",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2781,7 +2754,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Approximate Integer Solution Counts over Linear Arithmetic Constraints Cunjing GeMain Track 12994 Faster Stochastic Variance Reduction Methods for Compositional MiniMax",
+    "title": "Faster Stochastic Variance Reduction Methods for Compositional MiniMax Optimization",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2835,7 +2808,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "A Two-Stage Information Extraction Network for Incomplete Multi-View Multi-",
+    "title": "A Two-Stage Information Extraction Network for Incomplete Multi-View Multi-Label Classification",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2862,7 +2835,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Multi-Modal Disordered Representation Learning Network for Description-Based",
+    "title": "Multi-Modal Disordered Representation Learning Network for Description-based Person Search",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2916,7 +2889,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Deep Variational Incomplete Multi-View Clustering: Exploring Shared Clustering",
+    "title": "Deep Variational Incomplete Multi-View Clustering: Exploring Shared Clustering Structures",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2997,7 +2970,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Linear-Time Verification of Data-Aware Processes Modulo Theories via Covers",
+    "title": "Linear-Time Verification of Data-Aware Processes Modulo Theories via Covers and Automata",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -3024,7 +2997,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Tree-of-Reasoning Question Decomposition for Complex Question Answering",
+    "title": "Tree-of-Reasoning Question Decomposition for Complex Question Answering with Large Language Models",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -3051,7 +3024,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Motif-Aware Riemannian Graph Neural Network with Generative-Contrastive",
+    "title": "Motif-Aware Riemannian Graph Neural Network with Generative-Contrastive Learning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -3078,7 +3051,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Non-monotone Sequential Submodular Maximization",
+    "title": "Non-Monotone Sequential Submodular Maximization",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -3159,7 +3132,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Emotion Rendering for Conversational Speech Synthesis with Heterogeneous",
+    "title": "Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-based Context Modeling",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -3186,7 +3159,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Finding Interpretable Class-Specific Patterns through Efficient Neural Search Nils",
+    "title": "Finding Interpretable Class-Specific Patterns through Efficient Neural Search",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -3240,7 +3213,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Cross-Gate MLP with Protein Complex Invariant Embedding Is a One-Shot",
+    "title": "Cross-Gate MLP with Protein Complex Invariant Embedding is a One-Shot Antibody Designer",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -3348,7 +3321,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Arithmetic Feature Interaction Is Necessary for Deep Tabular Learning",
+    "title": "Arithmetic Feature Interaction is Necessary for Deep Tabular Learning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -3375,7 +3348,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Structural Information Guided Multimodal Pre-training for Vehicle-Centric",
+    "title": "Structural Information Guided Multimodal Pre-Training for Vehicle-Centric Perception",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -3456,7 +3429,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "One-Step Forward and Backtrack: Overcoming Zig-Zagging in Loss-Aware",
+    "title": "One-Step Forward and Backtrack: Overcoming Zig-Zagging in Loss-Aware Quantization Training",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -3483,7 +3456,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Not All Tasks Are Equally Difficult: Multi-Task Deep Reinforcement Learning with",
+    "title": "Not All Tasks are Equally Difficult: Multi-Task Deep Reinforcement Learning with Dynamic Depth Routing",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -3510,7 +3483,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Behavioral Recognition of Skeletal Data Based on Targeted Dual Fusion",
+    "title": "Behavioral Recognition of Skeletal Data based on Targeted Dual Fusion Strategy",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -3537,7 +3510,7 @@
     "section": "1001-1200 papers"
   },
   {
-    "title": "Contextual Pre-planning on Reward Machine Abstractions for Enhanced Transfer",
+    "title": "Contextual Pre-Planning on Reward Machine Abstractions for Enhanced Transfer in Deep Reinforcement Learning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -3579,411 +3552,6 @@
     "demo_page": null,
     "paper_thecvf": null,
     "paper_arxiv_id": "2103.13033",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "Incomplete Contrastive Multi-View Clustering with High-Confidence Guiding",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2211.00409",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "End-to-End Verification for Subgraph Solving",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2212.01060",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "When Model Meets New Normals: Test-Time Adaptation for Unsupervised Time-",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2312.11976",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "A Unified Environmental Network for Pedestrian Trajectory Prediction",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "1906.01797",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "Delivering Inflated Explanations",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2306.15272",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2310.19087",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "Cooperative Knowledge Distillation: A Learner Agnostic Approach",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2207.12346",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "Knowledge Enhanced Representation Learning for Drug Discovery Thanh",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2306.12802",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "Unveiling the Significance of Toddler-Inspired Reward Transition in Goal-",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2303.09850",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "Layer Collaboration in the Forward-Forward Algorithm",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2012.10569",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "One Step Learning, One Step Review",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2108.07915",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "HOP to the Next Tasks and Domains for Continual Learning in NLP",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2302.06801",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "Token-Level Contrastive Learning with Modality-Aware Prompting for Multimodal",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2312.14667",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "Situation-Dependent Causal Influence-Based Cooperative Multi-Agent",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "1703.08099",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1001-1200 papers"
-  },
-  {
-    "title": "Make Lossy Compression Meaningful for Low-Light Images",
-    "base_url": null,
-    "title_page": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2103.17015",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
