@@ -172,8 +172,7 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
     </tr>
     <tr>
         <td>ICASSP</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-Papers?style=flat" alt="" /></a></td>
-        <td align="center"><img src="https://img.shields.io/badge/April-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td colspan="2" align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-24-Papers?style=flat" alt="" /></a></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
