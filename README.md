@@ -91,7 +91,7 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 1200/2/2224 -->
+      <!-- 1200/2/2246 -->
       <div style="float:left;">
         <img src="https://geps.dev/progress/27?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
@@ -387,7 +387,7 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/2201_2224.md">2201-2224 papers</a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/2201_2246.md">2201-2246 papers</a>
             </td>
         </tr>
     </tbody>
