@@ -1,6 +1,6 @@
 [
   {
-    "title": "Semi-supervised Active Learning for Video Action Detection",
+    "title": "Semi-Supervised Active Learning for Video Action Detection",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -28,7 +28,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Deep Copula-Based Survival Analysis for Dependent Censoring with",
+    "title": "Deep Copula-based Survival Analysis for Dependent Censoring with Identifiability Guarantees",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -84,7 +84,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "United We Stand: Using Epoch-Wise Agreement of Ensembles to Combat",
+    "title": "United We Stand: Using Epoch-Wise Agreement of Ensembles to Combat Overfit",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -112,7 +112,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Sparse Bayesian Deep Learning for Cross Domain Medical Image",
+    "title": "Sparse Bayesian Deep Learning for Cross Domain Medical Image Reconstruction",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -140,7 +140,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Attack Deterministic Conditional Image Generative Models for Diverse and",
+    "title": "Attack Deterministic Conditional Image Generative Models for Diverse and Controllable Generation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -252,7 +252,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Improved MLP Point Cloud Processing with High-Dimensional Positional",
+    "title": "Improved MLP Point Cloud Processing with High-Dimensional Positional Encoding",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -364,7 +364,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Protein 3D Graph Structure Learning for Robust Structure-Based Protein",
+    "title": "Protein 3D Graph Structure Learning for Robust Structure-based Protein Property Prediction",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -392,7 +392,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Learning Discriminative Noise Guidance for Image Forgery Detection and",
+    "title": "Learning Discriminative Noise Guidance for Image Forgery Detection and Localization",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -448,7 +448,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Efficient Spiking Neural Networks with Sparse Selective Activation for Continual",
+    "title": "Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -476,7 +476,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "What Do Hebbian Learners Learn? Reduction Axioms for Unstable Hebbian",
+    "title": "What do Hebbian Learners Learn? Reduction Axioms for Unstable Hebbian Learning",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -504,7 +504,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "SAT-Based Tree Decomposition with Iterative Cascading Policy Selection",
+    "title": "SAT-based Tree Decomposition with Iterative Cascading Policy Selection",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -532,7 +532,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Measuring Self-Supervised Representation Quality for Downstream",
+    "title": "Measuring Self-Supervised Representation Quality for Downstream Classification using Discriminative Features",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -560,7 +560,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Once and for All: Universal Transferable Adversarial Perturbation against Deep",
+    "title": "Once and for All: Universal Transferable Adversarial Perturbation against Deep Hashing-based Facial Image Retrieval",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -588,7 +588,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Benchmarking Large Language Models on Controllable Generation under",
+    "title": "Benchmarking Large Language Models on Controllable Generation under Diversified Instructions",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -616,7 +616,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Transformer-Based Selective Super-resolution for Efficient Image Refinement",
+    "title": "Transformer-based Selective Super-Resolution for Efficient Image Refinement",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -728,7 +728,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Decoupling Degradations with Recurrent Network for Video Restoration in Under-",
+    "title": "Decoupling Degradations with Recurrent Network for Video Restoration in Under-Display Camera",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -784,7 +784,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "A Robust Mutual-Reinforcing Framework for 3D Multi-Modal Medical Image",
+    "title": "A Robust Mutual-Reinforcing Framework for 3D Multi-Modal Medical Image Fusion based on Visual-Semantic Consistency",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -812,7 +812,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Catalyst for Clustering-Based Unsupervised Object Re-identification: Feature",
+    "title": "Catalyst for Clustering-based Unsupervised Object Re-Identification: Feature Calibration",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -840,7 +840,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Proportional Representation in Metric Spaces and Low-Distortion Committee",
+    "title": "Proportional Representation in Metric Spaces and Low-Distortion Committee Selection",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -896,7 +896,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Completing Priceable Committees: Utilitarian and Representation Guarantees for",
+    "title": "Completing Priceable Committees: Utilitarian and Representation Guarantees for Proportional Multiwinner Voting",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -924,7 +924,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Simplicity Bias in Overparameterized Machine Learning Yakir Berchenko",
+    "title": "Simplicity Bias in Overparameterized Machine Learning",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1008,7 +1008,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Contrastive Continual Learning with Importance Sampling and Prototype-",
+    "title": "Contrastive Continual Learning with Importance Sampling and Prototype-Instance Relation Distillation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1036,7 +1036,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Adaptive Integration of Partial Label Learning and Negative Learning for",
+    "title": "Adaptive Integration of Partial Label Learning and Negative Learning for Enhanced Noisy Label Learning",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1064,7 +1064,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Robust Beamforming for Downlink Multi-Cell Systems: A Bilevel Optimization",
+    "title": "Robust Beamforming for Downlink Multi-Cell Systems: A Bilevel Optimization Perspective",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1120,7 +1120,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Paths, Proofs, and Perfection: Developing a Human-Interpretable Proof System",
+    "title": "Paths, Proofs, and Perfection: Developing a Human-Interpretable Proof System for Constrained Shortest Paths",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1148,7 +1148,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Robustly Improving Bandit Algorithms with Confounded and Selection Biased",
+    "title": "Robustly Improving Bandit Algorithms with Confounded and Selection Biased Offline Data: A Causal Approach",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1176,7 +1176,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "On Estimating the Gradient of the Expected Information Gain in Bayesian",
+    "title": "On Estimating the Gradient of the Expected Information Gain in Bayesian Experimental Design",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1232,7 +1232,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Discerning Temporal Difference Learning Jianfei Ma",
+    "title": "Discerning Temporal Difference Learning",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1260,7 +1260,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Communication-Efficient Collaborative Regret Minimization in Multi-Armed",
+    "title": "Communication-Efficient Collaborative Regret Minimization in Multi-Armed Bandits",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1288,7 +1288,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Multi-Scene Generalized Trajectory Global Graph Solver with Composite Nodes",
+    "title": "Multi-Scene Generalized Trajectory Global Graph Solver with Composite Nodes for Multiple Object Tracking",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1400,7 +1400,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "A Dynamic GCN with Cross-Representation Distillation for Event-Based Learning",
+    "title": "A Dynamic GCN with Cross-Representation Distillation for Event-based Learning",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1428,7 +1428,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Vision Transformer Off-the-Shelf: A Surprising Baseline for Few-Shot Class-",
+    "title": "Vision Transformer Off-the-Shelf: A Surprising Baseline for Few-Shot Class-Agnostic Counting",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1484,7 +1484,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Simultaneous Optimization of Bid Shading and Internal Auction for Demand-Side",
+    "title": "Simultaneous Optimization of Bid Shading and Internal Auction for Demand-Side Platforms",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1540,7 +1540,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Explaining Generalization Power of a DNN Using Interactive Concepts",
+    "title": "Explaining Generalization Power of a DNN using Interactive Concepts",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1568,7 +1568,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Graph Invariant Learning with Subgraph Co-mixup for Out-of-Distribution",
+    "title": "Graph Invariant Learning with Subgraph Co-Mixup for Out-of-Distribution Generalization",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1624,7 +1624,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Symbolic Cognitive Diagnosis via Hybrid Optimization for Intelligent Education",
+    "title": "Symbolic Cognitive Diagnosis via Hybrid Optimization for Intelligent Education Systems",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1652,7 +1652,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and",
+    "title": "Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1680,7 +1680,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Unsupervised Extractive Summarization with Learnable Length Control",
+    "title": "Unsupervised Extractive Summarization with Learnable Length Control Strategies",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1792,7 +1792,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Dynamic Semantic-Based Spatial Graph Convolution Network for Skeleton-",
+    "title": "Dynamic Semantic-based Spatial Graph Convolution Network for Skeleton-based Human Action Recognition",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1820,7 +1820,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Jointly Modeling Spatio-Temporal Features of Tactile Signals for Action",
+    "title": "Jointly Modeling Spatio-Temporal Features of Tactile Signals for Action Classification",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1848,7 +1848,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "An Interpretable Approach to the Solutions of High-Dimensional Partial",
+    "title": "An Interpretable Approach to the Solutions of High-Dimensional Partial Differential Equations",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1876,7 +1876,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Compressing Image-to-Image Translation GANs Using Local Density Structures",
+    "title": "Compressing Image-to-Image Translation GANs using Local Density Structures on Their Learned Manifold",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2016,7 +2016,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Bi-directional Adapter for Multimodal Tracking",
+    "title": "Bi-Directional Adapter for Multimodal Tracking",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2072,7 +2072,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Value at Adversarial Risk: A Graph Defense Strategy against Cost-Aware",
+    "title": "Value at Adversarial Risk: A Graph Defense Strategy against Cost-Aware Attacks",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2100,7 +2100,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Asymmetric Mutual Alignment for Unsupervised Zero-Shot Sketch-Based Image",
+    "title": "Asymmetric Mutual Alignment for Unsupervised Zero-Shot Sketch-based Image Retrieval",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2128,7 +2128,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "A Reinforcement-Learning-Based Multiple-Column Selection Strategy for Column",
+    "title": "A Reinforcement-Learning-based Multiple-Column Selection Strategy for Column Generation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2212,7 +2212,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Backward Responsibility in Transition Systems Using General Power Indices",
+    "title": "Backward Responsibility in Transition Systems using General Power Indices",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2268,7 +2268,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Less Is More: Label Recommendation for Weakly Supervised Point Cloud",
+    "title": "Less is more: Label Recommendation for Weakly Supervised Point Cloud Semantic Segmentation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2324,7 +2324,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "What Effects the Generalization in Visual Reinforcement Learning: Policy",
+    "title": "What Effects the Generalization in Visual Reinforcement Learning: Policy Consistency with Truncated Return Prediction",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2352,7 +2352,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Scaling and Masking: A New Paradigm of Data Sampling for Image and Video",
+    "title": "Scaling and Masking: A New Paradigm of Data Sampling for Image and Video Quality Assessment",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2380,7 +2380,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Gradient-Guided Modality Decoupling for Missing-Modality Robustness",
+    "title": "Gradient-guided Modality Decoupling for Missing-Modality Robustness",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2408,7 +2408,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Optimistic Policy Gradient in Multi-Player Markov Games with a Single",
+    "title": "Optimistic Policy Gradient in Multi-Player Markov Games with a Single Controller: Convergence beyond the Minty Property",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2464,7 +2464,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Learning Robust Rationales for Model Explainability: A Guidance-Based",
+    "title": "Learning Robust Rationales for Model Explainability: A Guidance-based Approach",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2520,7 +2520,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Using Clustering to Strengthen Decision Diagram Bounds for Discrete",
+    "title": "Using Clustering to Strengthen Decision Diagram Bounds for Discrete Optimization",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2548,7 +2548,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Rethinking the Paradigm of Content Constraints in Unpaired Image-to-Image",
+    "title": "Rethinking the Paradigm of Content Constraints in Unpaired Image-to-Image Translation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2576,7 +2576,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis Esteve",
+    "title": "A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2632,7 +2632,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement",
+    "title": "Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement Learning",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2660,7 +2660,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Scribble Hides Class: Promoting Scribble-Based Weakly-Supervised Semantic",
+    "title": "Scribble Hides Class: Promoting Scribble-based Weakly-Supervised Semantic Segmentation with its Class Label",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2688,7 +2688,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Angle Robustness Unmanned Aerial Vehicle Navigation in GNSS-Denied",
+    "title": "Angle Robustness Unmanned Aerial Vehicle Navigation in GNSS-Denied Scenarios",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2772,7 +2772,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Multi-Step Denoising Scheduled Sampling: Towards Alleviating Exposure Bias",
+    "title": "Multi-Step Denoising Scheduled Sampling: Towards Alleviating Exposure Bias for Diffusion Models",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2828,7 +2828,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Vision-Language Pre-training with Object Contrastive Learning for 3D Scene",
+    "title": "Vision-Language Pre-Training with Object Contrastive Learning for 3D Scene Understanding",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2856,7 +2856,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Manifold-Based Verbalizer Space Re-embedding for Tuning-Free Prompt-Based",
+    "title": "Manifold-based Verbalizer Space Re-Embedding for Tuning-Free Prompt-based Classification",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2884,7 +2884,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Cross-Layer and Cross-Sample Feature Optimization Network for Few-Shot Fine-",
+    "title": "Cross-Layer and Cross-Sample Feature Optimization Network for Few-Shot Fine-Grained Image Classification",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2912,7 +2912,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Semi-Supervised Blind Image Quality Assessment through Knowledge",
+    "title": "Semi-Supervised Blind Image Quality Assessment through Knowledge Distillation and Incremental Learning",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2996,7 +2996,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Hidden Follower Detection: How Is the Gaze-Spacing Pattern Embodied in",
+    "title": "Hidden Follower Detection: How is the Gaze-Spacing Pattern Embodied in Frequency Domain?",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -3052,7 +3052,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Unlocking the Power of Open Set: A New Perspective for Open-Set Noisy Label",
+    "title": "Unlocking the Power of Open Set: A New Perspective for Open-Set Noisy Label Learning",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -3164,7 +3164,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "A Dual-Way Enhanced Framework from Text Matching Point of View for",
+    "title": "A Dual-Way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -3192,7 +3192,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Learn How to See: Collaborative Embodied Learning for Object Detection and",
+    "title": "Learn How to See: Collaborative Embodied Learning for Object Detection and Camera Adjusting",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -3220,7 +3220,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "When to Show a Suggestion? Integrating Human Feedback in AI-Assisted",
+    "title": "When to Show a Suggestion? Integrating Human Feedback in AI-Assisted Programming",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -3276,7 +3276,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "SeTformer Is What You Need for Vision and Language",
+    "title": "SeTformer is What You Need for Vision and Language",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -3332,7 +3332,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Refining Latent Homophilic Structures over Heterophilic Graphs for Robust",
+    "title": "Refining Latent Homophilic Structures over Heterophilic Graphs for Robust Graph Convolution Networks",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -3360,7 +3360,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "CatmullRom Splines-Based Regression for Image Forgery Localization",
+    "title": "CatmullRom Splines-based Regression for Image Forgery Localization",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -3416,7 +3416,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Improving Knowledge Extraction from LLMs for Task Learning through Agent",
+    "title": "Improving Knowledge Extraction from LLMs for Task Learning through Agent Analysis",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -3472,7 +3472,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Component Fourier Neural Operator for Singularly Perturbed Differential",
+    "title": "Component Fourier Neural Operator for Singularly Perturbed Differential Equations",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -3528,7 +3528,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Diverse Person: Customize Your Own Dataset for Text-Based Person Search",
+    "title": "Diverse Person: Customize Your Own Dataset for Text-based Person Search",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -3612,7 +3612,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Pay Attention to Target: Relation-Aware Temporal Consistency for Domain",
+    "title": "Pay Attention to Target: Relation-Aware Temporal Consistency for Domain Adaptive Video Semantic Segmentation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -3640,7 +3640,7 @@
     "section": "1201-1400 papers"
   },
   {
-    "title": "Goal Alignment: Re-analyzing Value Alignment Problems Using Human-Aware",
+    "title": "Goal Alignment: Re-Analyzing Value Alignment Problems using Human-Aware AI",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -3656,370 +3656,6 @@
     "demo_page": null,
     "paper_thecvf": null,
     "paper_arxiv_id": "2310.20059",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1201-1400 papers"
-  },
-  {
-    "title": "Building Variable-Sized Models via Learngene Pool",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2312.05743",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1201-1400 papers"
-  },
-  {
-    "title": "Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2310.11060",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1201-1400 papers"
-  },
-  {
-    "title": "Generalized Planning for the Abstraction and Reasoning Corpus",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2401.07426",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1201-1400 papers"
-  },
-  {
-    "title": "Quantum-Inspired Neural Network with Runge-Kutta Method",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2304.13812",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1201-1400 papers"
-  },
-  {
-    "title": "Detection-Based Intermediate Supervision for Visual Question Answering",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2312.16012",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1201-1400 papers"
-  },
-  {
-    "title": "Forced Exploration in Bandit Problems",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2005.02209",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1201-1400 papers"
-  },
-  {
-    "title": "Intelligent Calibration for Bias Reduction in Sentiment Corpora Annotation",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2106.14434",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1201-1400 papers"
-  },
-  {
-    "title": "Fairness under Covariate Shift: Improving Fairness-Accuracy Tradeoff with Few",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2310.07535",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1201-1400 papers"
-  },
-  {
-    "title": "Decomposing Constraint Networks for Calculating c-Representations",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "1711.04084",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1201-1400 papers"
-  },
-  {
-    "title": "Intrinsic Action Tendency Consistency for Cooperative Multi-Agent",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2012.07669",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1201-1400 papers"
-  },
-  {
-    "title": "A Learnable Discrete-Prior Fusion Autoencoder with Contrastive Learning for",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2310.11896",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1201-1400 papers"
-  },
-  {
-    "title": "On the Convergence of an Adaptive Momentum Method for Adversarial Attacks",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2009.08194",
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "1201-1400 papers"
-  },
-  {
-    "title": "Unsupervised Group Re-identification via Adaptive Clustering-Driven Progressive",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": null,
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2111.15077",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
