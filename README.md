@@ -91,7 +91,7 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 1210/2/2246 -->
+      <!-- 1230/2/2246 -->
       <div style="float:left;">
         <img src="https://geps.dev/progress/27?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
@@ -364,13 +364,13 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1201_1400.md">1201-1400 papers</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1201_1400.md"><img src="https://img.shields.io/badge/10-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1201_1400.md"><img src="https://img.shields.io/badge/30-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1201_1400.md"><img src="https://img.shields.io/badge/8-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1201_1400.md"><img src="https://img.shields.io/badge/22-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1201_1400.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1201_1400.md"><img src="https://img.shields.io/badge/14-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1201_1400.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
