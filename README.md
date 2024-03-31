@@ -277,7 +277,6 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
 </table>
 
 > [!important]
-> Sorting papers by category in progress.
 > Papers will be sorted by category as soon as the [*proceedings*](https://aaai.org/aaai-publications/aaai-conference-proceedings/) are available.
 
 <table>
