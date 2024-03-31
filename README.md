@@ -240,6 +240,44 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
 </a>
 
 > [!important]
+> Sorting papers by category in progress.
+
+<table>
+    <thead>
+        <tr>
+            <th scope="col">Section</th>
+            <th scope="col">Papers</th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="5" align="center"><i>Main</i></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/application_domains.md">Application Domains</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/application_domains.md"><img src="https://img.shields.io/badge/soon-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/application_domains.md"><img src="https://img.shields.io/badge/soon-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/application_domains.md"><img src="https://img.shields.io/badge/soon-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/application_domains.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+> [!important]
+> Sorting papers by category in progress.
 > Papers will be sorted by category as soon as the [*proceedings*](https://aaai.org/aaai-publications/aaai-conference-proceedings/) are available.
 
 <table>
