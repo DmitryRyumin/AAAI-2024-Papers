@@ -261,7 +261,7 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/application_domains.md">Application Domains</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/application_domains.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/application_domains.md"><img src="https://img.shields.io/badge/50-42BA16" alt="Papers"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/application_domains.md"><img src="https://img.shields.io/badge/2-b31b1b" alt="Preprints"></a>
