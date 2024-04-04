@@ -15,7 +15,7 @@
     <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
-    <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/cognitive_modeling_and_cognitive_systems.md">
+    <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/сognitive_modeling_and_cognitive_systems.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
     </a>
 </div>
