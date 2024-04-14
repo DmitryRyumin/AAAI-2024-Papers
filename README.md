@@ -301,7 +301,7 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/computer_vision.md"><img src="https://img.shields.io/badge/79-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/computer_vision.md"><img src="https://img.shields.io/badge/76-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/computer_vision.md"><img src="https://img.shields.io/badge/77-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/computer_vision.md"><img src="https://img.shields.io/badge/70-FF0000" alt="Videos"></a>
