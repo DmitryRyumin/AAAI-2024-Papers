@@ -468,7 +468,7 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1401_1600.md">1401-1600 papers</a>
             </td>
-            <td colspan="4" rowspan="5" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="5" align="center"><i>Will soon be sorted</i></td>
         </tr>
         <tr>
             <td>
