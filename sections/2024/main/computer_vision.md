@@ -25,7 +25,7 @@
 
 ## Computer Vision
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-804-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-108-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-102-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-93-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-804-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-119-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-115-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-104-FF0000)
 
 | :id: | **Title** | **Repo** | **Paper** | **Video** |
 |------|-----------|:--------:|:---------:|:---------:|
