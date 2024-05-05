@@ -1,6 +1,8 @@
-# ![AAAI-2024-Papers](https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=AAAI-2024-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=AAAI-2024-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18" alt="AAAI-2024-Papers">
+</p>
 
-<table>
+<table align="center">
   <tr>
     <td><strong>General Information</strong></td>
     <td>
@@ -149,8 +151,7 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
     </tr>
     <tr>
         <td>CVPR</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers?style=flat" alt="" /></a></td>
-        <td align="center"><img src="https://img.shields.io/badge/June-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td colspan="2" align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-24-Papers?style=flat" alt="" /></a></td>
     </tr>
     <tr>
         <td>ICCV</td>
