@@ -71,7 +71,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": null,
+    "paper_arxiv_id": "2312.09310",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -127,7 +127,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": null,
+    "paper_arxiv_id": "2312.10999",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -364,7 +364,7 @@
     "section": "Constraint Satisfaction and Optimization"
   },
   {
-    "title": "Composing Biases by Using CP to Decompose Minimal Functional Dependencies for Acquiring Complex Formulae",
+    "title": "Composing Biases by using CP to Decompose Minimal Functional Dependencies for Acquiring Complex Formulae",
     "base_url": null,
     "title_page": "https://ojs.aaai.org/index.php/AAAI/article/view/28641",
     "ieee_id": null,
@@ -420,7 +420,7 @@
     "section": "Constraint Satisfaction and Optimization"
   },
   {
-    "title": "SAT-Based Techniques for Lexicographically Smallest Finite Models",
+    "title": "SAT-based Techniques for Lexicographically Smallest Finite Models",
     "base_url": null,
     "title_page": "https://ojs.aaai.org/index.php/AAAI/article/view/28643",
     "ieee_id": null,
@@ -700,7 +700,7 @@
     "section": "Constraint Satisfaction and Optimization"
   },
   {
-    "title": "SAT-Based Algorithms for Regular Graph Pattern Matching",
+    "title": "SAT-based Algorithms for Regular Graph Pattern Matching",
     "base_url": null,
     "title_page": "https://ojs.aaai.org/index.php/AAAI/article/view/28653",
     "ieee_id": null,
@@ -728,7 +728,7 @@
     "section": "Constraint Satisfaction and Optimization"
   },
   {
-    "title": "CEGAR-Based Approach for Solving Combinatorial Optimization Modulo Quantified Linear Arithmetics Problems",
+    "title": "CEGAR-based Approach for Solving Combinatorial Optimization Modulo Quantified Linear Arithmetics Problems",
     "base_url": null,
     "title_page": "https://ojs.aaai.org/index.php/AAAI/article/view/28654",
     "ieee_id": null,
@@ -840,7 +840,7 @@
     "section": "Constraint Satisfaction and Optimization"
   },
   {
-    "title": "What Are the Rules? Discovering Constraints from Data",
+    "title": "What are the Rules? Discovering Constraints from Data",
     "base_url": null,
     "title_page": "https://ojs.aaai.org/index.php/AAAI/article/view/28658",
     "ieee_id": null,
@@ -868,7 +868,7 @@
     "section": "Constraint Satisfaction and Optimization"
   },
   {
-    "title": "SAT-Based Tree Decomposition with Iterative Cascading Policy Selection",
+    "title": "SAT-based Tree Decomposition with Iterative Cascading Policy Selection",
     "base_url": null,
     "title_page": "https://ojs.aaai.org/index.php/AAAI/article/view/28659",
     "ieee_id": null,
@@ -924,7 +924,7 @@
     "section": "Constraint Satisfaction and Optimization"
   },
   {
-    "title": "A Reinforcement-Learning-Based Multiple-Column Selection Strategy for Column Generation",
+    "title": "A Reinforcement-Learning-based Multiple-Column Selection Strategy for Column Generation",
     "base_url": null,
     "title_page": "https://ojs.aaai.org/index.php/AAAI/article/view/28661",
     "ieee_id": null,
@@ -952,7 +952,7 @@
     "section": "Constraint Satisfaction and Optimization"
   },
   {
-    "title": "Large-Scale Non-convex Stochastic Constrained Distributionally Robust Optimization",
+    "title": "Large-Scale Non-Convex Stochastic Constrained Distributionally Robust Optimization",
     "base_url": null,
     "title_page": "https://ojs.aaai.org/index.php/AAAI/article/view/28662",
     "ieee_id": null,
