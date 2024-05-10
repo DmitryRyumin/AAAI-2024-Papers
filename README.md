@@ -93,7 +93,7 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 345/2246 -->
+      <!-- 380/2246 -->
       <div style="float:left;">
         <img src="https://geps.dev/progress/29?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
@@ -315,7 +315,15 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/constraint_satisfaction_and_optimization.md"><img src="https://img.shields.io/badge/35-42BA16" alt="Papers"></a>
             </td>
-            <td colspan="3" rowspan="2" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/constraint_satisfaction_and_optimization.md"><img src="https://img.shields.io/badge/19-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/constraint_satisfaction_and_optimization.md"><img src="https://img.shields.io/badge/12-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/constraint_satisfaction_and_optimization.md"><img src="https://img.shields.io/badge/23-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -324,6 +332,7 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/data_mining_and_knowledge_management.md"><img src="https://img.shields.io/badge/135-42BA16" alt="Papers"></a>
             </td>
+            <td colspan="3" rowspan="1" align="center"><i>Will soon be added</i></td>
         </tr>
     </tbody>
 </table>
