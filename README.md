@@ -93,7 +93,7 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 390/2246 -->
+      <!-- 400/2246 -->
       <div style="float:left;">
         <img src="https://geps.dev/progress/29?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
@@ -299,13 +299,13 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/computer_vision.md"><img src="https://img.shields.io/badge/804-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/computer_vision.md"><img src="https://img.shields.io/badge/186-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/computer_vision.md"><img src="https://img.shields.io/badge/192-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/computer_vision.md"><img src="https://img.shields.io/badge/162-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/computer_vision.md"><img src="https://img.shields.io/badge/170-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/computer_vision.md"><img src="https://img.shields.io/badge/154-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/computer_vision.md"><img src="https://img.shields.io/badge/157-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
