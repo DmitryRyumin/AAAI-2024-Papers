@@ -381,7 +381,7 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/multiagent_systems.md">Machine Learning</a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/multiagent_systems.md">Multiagent Systems</a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/multiagent_systems.md"><img src="https://img.shields.io/badge/39-42BA16" alt="Papers"></a>
@@ -389,7 +389,7 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/natural_language_processing.md">Machine Learning</a>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/natural_language_processing.md">Natural Language Processing</a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/natural_language_processing.md"><img src="https://img.shields.io/badge/240-42BA16" alt="Papers"></a>
