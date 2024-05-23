@@ -337,7 +337,7 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/data_mining_and_knowledge_management.md"><img src="https://img.shields.io/badge/135-42BA16" alt="Papers"></a>
             </td>
-            <td colspan="3" rowspan="4" align="center"><i>Will soon be added</i></td>
+            <td colspan="3" rowspan="5" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -361,6 +361,14 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/intelligent_robots.md"><img src="https://img.shields.io/badge/16-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/knowledge_representation_and_reasoning.md">Knowledge Representation and Reasoning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/knowledge_representation_and_reasoning.md"><img src="https://img.shields.io/badge/38-42BA16" alt="Papers"></a>
             </td>
         </tr>
     </tbody>
