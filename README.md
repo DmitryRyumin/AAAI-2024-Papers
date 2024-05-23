@@ -337,7 +337,7 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/data_mining_and_knowledge_management.md"><img src="https://img.shields.io/badge/135-42BA16" alt="Papers"></a>
             </td>
-            <td colspan="3" rowspan="8" align="center"><i>Will soon be added</i></td>
+            <td colspan="3" rowspan="10" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -393,6 +393,22 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/natural_language_processing.md"><img src="https://img.shields.io/badge/240-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/philosophy_and_ethics_of_ai.md">Philosophy and Ethics of AI</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/philosophy_and_ethics_of_ai.md"><img src="https://img.shields.io/badge/24-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/planning_routing_and_scheduling.md">Planning, Routing, and Scheduling</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/planning_routing_and_scheduling.md"><img src="https://img.shields.io/badge/31-42BA16" alt="Papers"></a>
             </td>
         </tr>
     </tbody>
