@@ -337,7 +337,23 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/data_mining_and_knowledge_management.md"><img src="https://img.shields.io/badge/135-42BA16" alt="Papers"></a>
             </td>
-            <td colspan="3" rowspan="1" align="center"><i>Will soon be added</i></td>
+            <td colspan="3" rowspan="3" align="center"><i>Will soon be added</i></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/game_theory_and_economic_paradigms.md">Game Theory and Economic Paradigms</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/game_theory_and_economic_paradigms.md"><img src="https://img.shields.io/badge/65-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/humans_and_ai.md">Humans and AI</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/humans_and_ai.md"><img src="https://img.shields.io/badge/31-42BA16" alt="Papers"></a>
+            </td>
         </tr>
     </tbody>
 </table>
