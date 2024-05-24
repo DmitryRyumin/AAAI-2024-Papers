@@ -363,9 +363,6 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/intelligent_robots.md"><img src="https://img.shields.io/badge/16-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/intelligent_robots.md"><img src="https://img.shields.io/badge/16-42BA16" alt="Papers"></a>
-            </td>
-            <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/intelligent_robots.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
             </td>
             <td>
