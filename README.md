@@ -93,9 +93,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 420/2407 -->
+      <!-- 436/2407 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/17?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/18?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -361,6 +361,18 @@ AAAI 2024 Papers: Explore a comprehensive collection of innovative research pape
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/intelligent_robots.md"><img src="https://img.shields.io/badge/16-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/intelligent_robots.md"><img src="https://img.shields.io/badge/16-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/intelligent_robots.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/intelligent_robots.md"><img src="https://img.shields.io/badge/13-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/intelligent_robots.md"><img src="https://img.shields.io/badge/10-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>

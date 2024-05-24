@@ -25,7 +25,7 @@
 
 ## Intelligent Robots
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-16-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-soon-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-16-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-9-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-13-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-10-FF0000)
 
 | :id: | **Title** | **Repo** | **Paper** | **Video** |
 |------|-----------|:--------:|:---------:|:---------:|
